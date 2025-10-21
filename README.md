@@ -107,9 +107,8 @@ calculator/
 
 ## 🧾 Example UI
 
-![Calculator Screenshot](https://user-images.githubusercontent.com/yourgithubusername/calculator-example.png)
+![Calculator Screenshot](https://github.com/movahed-abdolahi/flask_docker_calculator/blob/main/calculator.jpg)
 
-*(Screenshot optional — add after your first push to GitHub)*
 
 ---
 
@@ -140,15 +139,6 @@ calculator/
 - **Docker** ≥ 20.x  
 - **pip** (Python package manager)
 
----
-
-## 🧠 Future Improvements
-
-- Add scientific calculator functions (square root, power, etc.)
-- Store recent calculations in session
-- Add a REST API endpoint (`/api/calculate`)
-- Include unit tests and CI/CD pipeline (GitHub Actions)
-- Deploy to Render, AWS ECS, or Azure App Service
 
 ---
 
@@ -157,7 +147,7 @@ calculator/
 **Movahed Abdolahi**  
 📍 Based in Canada  
 💼 Data & Business Intelligence Professional  
-🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/movi-abdo96/) | [GitHub](https://github.com/movahed-abdolahi)  
 
 ---
 
